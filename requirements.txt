@@ -1,0 +1,3 @@
+pip install crewai crewai-tools langchain-ollama pydantic paramiko impacket requests PyYAML networkx
+sudo apt update
+sudo apt install nmap whois dnsutils curl ffuf sqlmap wpscan hydra nikto theharvester gobuster masscan -y 
